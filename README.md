@@ -16,7 +16,7 @@ Arduino Uno - For my hardware based experiments
 Raspberry Pi - Not using it right now, but I'm thinking of converting it to become a media server
 Electric Imp - SD Card sized wifi
 
->Once you go Mac, you'll never go back. :)
+*Once you go Mac, you'll never go back. :)*
 
 ##And what software?
 
