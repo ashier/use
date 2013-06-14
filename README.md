@@ -7,8 +7,11 @@ My name is Ashier. A front-end developer for more than 8 years. Worked on action
 ##What hardware do you use?
 
 I was a Windows user until Windows XP. Bought my first MBP 2009 and ever since I never went back. I'm currently using a MacBookPro 17 forall my personal projects.
+
 I have an iPhone5.
+
 *Once you go Mac, you'll never go back. :)*
+
 
 May be counted as hardware as well:
 
