@@ -1,16 +1,18 @@
 # Ashier de Leon
 
-Who are you, and what do you do?
+##Who are you, and what do you do?
 
-I'm Ashier de Leon, I do front-end stuff and nodejs
+I'm Ashier de Leon.
 
-What hardware do you use?
+##What hardware do you use?
 
-MBP 17". Once you go Mac, you'll never go back. :)
+I'm currently using a MacBookPro 17".
 
-And what software?
+>Once you go Mac, you'll never go back. :)
 
-Sublime Text
-Github
-Chrome
-Mail
+##And what software?
+
+Sublime Text - Where I code Node.js open source projects
+Github - Where my repo is.
+Chrome - My favorite browser.
+Mail - Serves all my mails.
