@@ -20,14 +20,14 @@ Electric Imp - SD Card sized wifi
 
 ##And what software?
 
-Flash Builder - Where I code Flex
-Sublime Text - Where I code Node.js & other open source projects
-Xcode 4 - Where I code my Mac Apps
-Photoshop - You know. :)
-Alfred - Makes me more productive.
-Evernote - Where all my ideas are listed
-1Password - Can't live without it.
-Github - Where my repo is.
-Chrome - My favorite browser.
-Mail - Serves all my mails.
-Skype - Personal & Work
+- Flash Builder - Where I code Flex
+- Sublime Text - Where I code Node.js & other open source projects
+- Xcode 4 - Where I code my Mac Apps
+- Photoshop - You know. :)
+- Alfred - Makes me more productive.
+- Evernote - Where all my ideas are listed
+- 1Password - Can't live without it.
+- Github - Where my repo is.
+- Chrome - My favorite browser.
+- Mail - Serves all my mails.
+- Skype - Personal & Work
